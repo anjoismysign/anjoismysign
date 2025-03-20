@@ -1,16 +1,18 @@
-## Hi there 👋
+😊 I am Luis Benavides Naranjo.
 
-<!--
-**anjoismysign/anjoismysign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![luis benavides naranjo-export](https://github.com/user-attachments/assets/be1af5c4-2e2b-41f2-ab50-26342a3711b7)
 
-Here are some ideas to get you started:
+📍 I live in San José, Costa Rica.
+![costa rica](https://github.com/user-attachments/assets/04219aca-e31e-4693-94c9-320deabed291)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Minecraft made me take an interest in programming back in 2014.
+* I took programming with much seriousness during the 2020 pandemic.
+* Since then, I've been enjoying automation.
+* I am currently working with artificial intelligence, I spend most of my time doing agentic systems.
+
+🎸 I am also a beginner-like musician
+* https://soundcloud.com/anjoismysignature
+
+
+📫 You may reach me any time!
+* lubensaico@gmail.com
